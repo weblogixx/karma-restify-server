@@ -1,6 +1,6 @@
 {
   "name": "karma-restify-server",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Karma plugin to create a restify http server for unit tests",
   "main": "index.js",
   "scripts": {
